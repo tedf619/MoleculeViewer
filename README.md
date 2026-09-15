@@ -56,7 +56,7 @@ There are three docked items that make up the UI, as shown in the following figu
 
 <img width="800" height="482" alt="image" src="https://github.com/user-attachments/assets/648eb03c-67c9-4fe0-adab-90832d0873ee" />
 
-*Figure 6 - The three docked items of the user interface*
+*Figure 6 - The three docked items of the user interface.*
 
 To achieve the required layout, the items must be added in order of docking priority:
 
