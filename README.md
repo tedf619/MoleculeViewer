@@ -228,7 +228,7 @@ The first 6-character field is the record type. Here are the most common types:
 
 The most common records are ATOM and HETATM types, which both have the same layout.
 Text fields are right-padded with spaces. Numeric fields are left-padded with spaces.
-In MoleculeViewer we only care about the some of the available PDB fields, as defined below.
+In MoleculeViewer we only care about some of the available PDB fields, as defined below.
 
 ```
 Field Name                    Columns        Description
